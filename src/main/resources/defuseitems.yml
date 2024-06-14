@@ -1,0 +1,9 @@
+wires: "REDSTONE"
+confusions:
+- "COAL"
+- "LAPIS_LAZULI"
+- "RAW_COPPER"
+- "RAW_IRON"
+- "RAW_GOLD"
+- "DIAMOND"
+- "EMERALD"

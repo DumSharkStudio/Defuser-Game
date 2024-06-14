@@ -1,0 +1,4 @@
+name: Defuser-Game
+version: '${version}'
+main: com.sharkylab.sharkycraft.defusergame.Defuser_Game
+api-version: '1.20'

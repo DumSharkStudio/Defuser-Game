@@ -1,0 +1,3 @@
+game:
+  # Percentage of the correct wires
+  wires: 0.30
